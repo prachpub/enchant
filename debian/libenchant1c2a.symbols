@@ -1,0 +1,177 @@
+libenchant.so.1 libenchant1c2a #MINVER#
+ enchant_broker_describe@Base 1.6.0
+ enchant_broker_dict_exists@Base 1.6.0
+ enchant_broker_free@Base 1.6.0
+ enchant_broker_free_dict@Base 1.6.0
+ enchant_broker_get_error@Base 1.6.0
+ enchant_broker_get_param@Base 1.6.0
+ enchant_broker_init@Base 1.6.0
+ enchant_broker_list_dicts@Base 1.6.0
+ enchant_broker_request_dict@Base 1.6.0
+ enchant_broker_request_pwl_dict@Base 1.6.0
+ enchant_broker_set_ordering@Base 1.6.0
+ enchant_broker_set_param@Base 1.6.0
+ enchant_dict_add@Base 1.6.0
+ enchant_dict_add_to_personal@Base 1.6.0
+ enchant_dict_add_to_pwl@Base 1.6.0
+ enchant_dict_add_to_session@Base 1.6.0
+ enchant_dict_check@Base 1.6.0
+ enchant_dict_describe@Base 1.6.0
+ enchant_dict_free_string_list@Base 1.6.0
+ enchant_dict_free_suggestions@Base 1.6.0
+ enchant_dict_get_error@Base 1.6.0
+ enchant_dict_is_added@Base 1.6.0
+ enchant_dict_is_in_session@Base 1.6.0
+ enchant_dict_is_removed@Base 1.6.0
+ enchant_dict_remove@Base 1.6.0
+ enchant_dict_remove_from_session@Base 1.6.0
+ enchant_dict_set_error@Base 1.6.0
+ enchant_dict_store_replacement@Base 1.6.0
+ enchant_dict_suggest@Base 1.6.0
+ enchant_fopen@Base 1.6.0
+ enchant_get_dirs_from_param@Base 1.6.0
+ enchant_get_prefix_dir@Base 1.6.0
+ enchant_get_registry_value@Base 1.6.0
+ enchant_get_user_config_dirs@Base 1.6.0
+ enchant_get_user_language@Base 1.6.0
+ enchant_get_version@Base 1.6.0
+ enchant_provider_set_error@Base 1.6.0
+ enchant_pwl_add@Base 1.6.0
+ enchant_pwl_check@Base 1.6.0
+ enchant_pwl_free@Base 1.6.0
+ enchant_pwl_free_string_list@Base 1.6.0
+ enchant_pwl_init@Base 1.6.0
+ enchant_pwl_init_with_file@Base 1.6.0
+ enchant_pwl_remove@Base 1.6.0
+ enchant_pwl_suggest@Base 1.6.0
+ gbr_init@Base 1.6.0
+ gbr_init_lib@Base 1.6.0
+ qYFU3719188448765_gbr_find_bin_dir@Base 1.6.0
+ qYFU3719188448765_gbr_find_data_dir@Base 1.6.0
+ qYFU3719188448765_gbr_find_etc_dir@Base 1.6.0
+ qYFU3719188448765_gbr_find_exe@Base 1.6.0
+ qYFU3719188448765_gbr_find_exe_dir@Base 1.6.0
+ qYFU3719188448765_gbr_find_lib_dir@Base 1.6.0
+ qYFU3719188448765_gbr_find_libexec_dir@Base 1.6.0
+ qYFU3719188448765_gbr_find_locale_dir@Base 1.6.0
+ qYFU3719188448765_gbr_find_prefix@Base 1.6.0
+ qYFU3719188448765_gbr_find_sbin_dir@Base 1.6.0
+libenchant_aspell.so libenchant1c2a #MINVER#
+ configure_enchant_provider@Base 1.6.0
+ init_enchant_provider@Base 1.6.0
+libenchant_hspell.so libenchant1c2a #MINVER#
+ allocate_nodes@Base 1.6.0
+ corlist_add@Base 1.6.0
+ corlist_free@Base 1.6.0
+ corlist_init@Base 1.6.0
+ delete_dict_radix@Base 1.6.0
+ dmasks@Base 1.6.0
+ hspell_check_word@Base 1.6.0
+ hspell_debug@Base 1.6.0
+ hspell_enum_splits@Base 1.6.0
+ hspell_get_dictionary_path@Base 1.6.0
+ hspell_init@Base 1.6.0
+ hspell_is_canonic_gimatria@Base 1.6.0
+ hspell_set_dictionary_path@Base 1.6.0
+ hspell_trycorrect@Base 1.6.0
+ hspell_uninit@Base 1.6.0
+ init_enchant_provider@Base 1.6.0
+ linginfo_desc2ps@Base 1.6.0
+ linginfo_desc2text@Base 1.6.0
+ linginfo_free@Base 1.6.0
+ linginfo_init@Base 1.6.0
+ linginfo_lookup@Base 1.6.0
+ linginfo_stem2text@Base 1.6.0
+ lookup@Base 1.6.0
+ new_dict_radix@Base 1.6.0
+ print_sizes@Base 1.6.0
+ print_stats@Base 1.6.0
+ print_tree@Base 1.6.0
+ read_dict@Base 1.6.0
+libenchant_ispell.so libenchant1c2a #MINVER#
+ (c++)"myspace(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::addvheader(dent*)@Base" 1.6.0
+ (c++)"ISpellChecker::clearindex(flagptr*)@Base" 1.6.0
+ (c++)"ISpellChecker::expand_pre(char*, unsigned short*, long*, int, char*)@Base" 1.6.0
+ (c++)"ISpellChecker::expand_suf(char*, unsigned short*, long*, int, int, char*)@Base" 1.6.0
+ (c++)"ISpellChecker::ichartostr(char*, unsigned short*, int, int)@Base" 1.6.0
+ (c++)"ISpellChecker::printichar(int)@Base" 1.6.0
+ (c++)"ISpellChecker::strtoichar(unsigned short*, char*, int, int)@Base" 1.6.0
+ (c++)"ISpellChecker::extraletter(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::ichartosstr(unsigned short*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::strtosichar(char*, int)@Base" 1.6.0
+ (optional|c++)"ISpellChecker::suggestWord(char const*, unsigned long, unsigned long*)@Base" 1.6.0
+ (c++)"ISpellChecker::wrongletter(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::compoundgood(unsigned short*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::findfiletype(char const*, int, int*)@Base" 1.6.0
+ (c++)"ISpellChecker::ins_root_cap(unsigned short*, unsigned short*, int, int, int, int, dent*, flagent*, flagent*)@Base" 1.6.0
+ (c++)"ISpellChecker::isboundarych(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::missingspace(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::pfx_list_chk(unsigned short*, unsigned short*, int, int, int, flagptr*, int, int)@Base" 1.6.0
+ (c++)"ISpellChecker::suf_list_chk(unsigned short*, unsigned short*, int, flagptr*, int, flagent*, int, int)@Base" 1.6.0
+ (c++)"ISpellChecker::wrongcapital(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::ispell_lookup(unsigned short*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::isstringstart(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::missingletter(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::save_root_cap(unsigned short*, unsigned short*, int, int, int, int, dent*, flagent*, flagent*, unsigned short (*) [120], int*)@Base" 1.6.0
+ (c++)"ISpellChecker::stringcharlen(char*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::loadDictionary(char const*)@Base" 1.6.0
+ (c++)"ISpellChecker::pr_pre_expansion(char*, unsigned short*, flagent*, long*, int, char*)@Base" 1.6.0
+ (c++)"ISpellChecker::pr_suf_expansion(char*, unsigned short*, flagent*, int, char*)@Base" 1.6.0
+ (c++)"ISpellChecker::transposedletter(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::makepossibilities(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::requestDictionary(char const*)@Base" 1.6.0
+ (c++)"ISpellChecker::free_ispell_struct()@Base" 1.6.0
+ (c++)"ISpellChecker::alloc_ispell_struct()@Base" 1.6.0
+ (c++)"ISpellChecker::setDictionaryEncoding(char const*, char const*)@Base" 1.6.0
+ (c++)"ISpellChecker::try_autodetect_charset(char const*)@Base" 1.6.0
+ (c++)"ISpellChecker::loadDictionaryForLanguage(char const*)@Base" 1.6.0
+ (c++)"ISpellChecker::good(unsigned short*, int, int, int, int)@Base" 1.6.0
+ (c++)"ISpellChecker::hash(unsigned short*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::linit(char*)@Base" 1.6.0
+ (c++)"ISpellChecker::cap_ok(unsigned short*, success*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::insert(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::upcase(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::casecmp(char*, char*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::chk_aff(unsigned short*, unsigned short*, int, int, int, int, int)@Base" 1.6.0
+ (c++)"ISpellChecker::chk_suf(unsigned short*, unsigned short*, int, int, flagent*, int, int)@Base" 1.6.0
+ (c++)"ISpellChecker::forcelc(unsigned short*, int)@Base" 1.6.0
+ (c++)"ISpellChecker::ins_cap(unsigned short*, unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::lowcase(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::mylower(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::myupper(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::whatcap(unsigned short*)@Base" 1.6.0
+ (c++)"ISpellChecker::chupcase(char*)@Base" 1.6.0
+ (c++)"ISpellChecker::initckch(char*)@Base" 1.6.0
+ (c++)"ISpellChecker::iswordch(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::save_cap(unsigned short*, unsigned short*, unsigned short (*) [120])@Base" 1.6.0
+ (optional|c++)"ISpellChecker::checkWord(char const*, unsigned long)@Base" 1.6.0
+ (c++)"ISpellChecker::mytolower(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::mytoupper(unsigned short)@Base" 1.6.0
+ (c++)"ISpellChecker::ISpellChecker(str_enchant_broker*)@Base" 1.6.0
+ (c++)"ISpellChecker::ISpellChecker(str_enchant_broker*)@Base" 1.6.0
+ (c++)"ISpellChecker::~ISpellChecker()@Base" 1.6.0
+ (c++)"ISpellChecker::~ISpellChecker()@Base" 1.6.0
+ (optional|c++|regex)"^std::" 1.6.0
+ (optional|c++|regex)"void std::" 1.6.0
+ (optional|c++)"ISpellChecker::suggestWord(char const*, unsigned int, unsigned int*)@Base" 1.6.0
+ (optional|c++)"ISpellChecker::checkWord(char const*, unsigned int)@Base" 1.6.0
+ gnMaskBits@Base 1.6.0
+ icharcmp@Base 1.6.0
+ icharcpy@Base 1.6.0
+ icharlen@Base 1.6.0
+ icharncmp@Base 1.6.0
+ init_enchant_provider@Base 1.6.0
+libenchant_myspell.so libenchant1c2a #MINVER#
+ (optional|c++)"MySpellChecker::suggestWord(char const*, unsigned long, unsigned long*)@Base" 1.6.0
+ (c++)"MySpellChecker::requestDictionary(char const*)@Base" 1.6.0
+ (optional|c++)"MySpellChecker::checkWord(char const*, unsigned long)@Base" 1.6.0
+ (c++)"MySpellChecker::MySpellChecker(str_enchant_broker*)@Base" 1.6.0
+ (c++)"MySpellChecker::MySpellChecker(str_enchant_broker*)@Base" 1.6.0
+ (c++)"MySpellChecker::~MySpellChecker()@Base" 1.6.0
+ (c++)"MySpellChecker::~MySpellChecker()@Base" 1.6.0
+ (optional|c++|regex)"^std::" 1.6.0
+ (optional|c++|regex)"void std::" 1.6.0
+ (optional|c++)"MySpellChecker::suggestWord(char const*, unsigned int, unsigned int*)@Base" 1.6.0
+ (optional|c++)"MySpellChecker::checkWord(char const*, unsigned int)@Base" 1.6.0
+ init_enchant_provider@Base 1.6.0
