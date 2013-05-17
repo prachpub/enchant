@@ -1,3 +1,9 @@
+enchant (1.6.0-10) unstable; urgency=low
+
+  * Upload to unstable
+
+ -- Prach Pongpanich <prachpub@gmail.com>  Fri, 17 May 2013 21:35:14 +0700
+
 enchant (1.6.0-9) experimental; urgency=low
 
   * Fix FTBFS on non-amd64 architectures: (Closes: #703820)
